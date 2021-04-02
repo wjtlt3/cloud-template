@@ -32,6 +32,13 @@
 
 [如何食用vue-admin-template前端项目](https://www.tycoding.cn/2019/05/30/cloud/cloud-template-app/)
 
+更多文档将在我的公众号 **程序员涂陌** 中陆续发布，请持续关注！
+
+| 程序员涂陌                                                  |
+| ----------------------------------------------------------- |
+| ![qrcode_for_gh](http://cdn.tycoding.cn/20200610184737.jpg) |
+
+
 ## Spring Cloud Template
 
 * 一套极简的Spring Cloud微服务项目模板，开箱即用，方便扩展
@@ -113,11 +120,12 @@ $ npm install
 $ npm run dev
 ```
 
-## 请喝果汁
+## 捐赠
 
-如果觉得这篇文章、Demo对你的学习有所帮助，可以请作者喝一杯果汁~~
+| Alipay                                                     | WechatPay                                                  |
+| ---------------------------------------------------------- | ---------------------------------------------------------- |
+| ![alipay_258px](http://cdn.tycoding.cn/20200610132929.png) | ![wechat_258px](http://cdn.tycoding.cn/20200610132940.png) |
 
-![](doc/wechat.png)
 
 ## 预览
 
@@ -137,7 +145,9 @@ $ npm run dev
 
 ## 联系
 
-QQ交流群：671017003
+QQGroup：671017003
+
+QQGroup2：490303233
 
 - [Blog@TyCoding's blog](http://www.tycoding.cn)
 - [GitHub@TyCoding](https://github.com/TyCoding)
